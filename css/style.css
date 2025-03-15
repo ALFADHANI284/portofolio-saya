@@ -16,7 +16,8 @@ body {
   overflow-x: hidden; /* Mencegah geser horizontal */
   user-select: none;
   -webkit-tap-highlight-color: transparent;
-  overflow: hidden;
+  overflow-x: hidden;
+  overflow-y: hidden;
 }
 
 .video-background {
